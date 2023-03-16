@@ -1,4 +1,4 @@
 package co.edu.ucatolica.primerparcial.dao;
 
-public interface TurnoDAO {
+public interface ShiftDAO {
 }
