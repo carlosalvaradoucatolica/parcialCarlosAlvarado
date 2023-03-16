@@ -22,4 +22,9 @@ public class UserServiceImpl implements IUserService {
         iUserRepository.save(mapper.map(user, User.class));
         return new UserResponseDTO("Usuario creado exitosamente");
     }
+
+    @Override
+    public User persistUser(User user) {
+        return iUserRepository.save(user);
+    }
 }

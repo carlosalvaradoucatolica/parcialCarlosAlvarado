@@ -1,4 +1,4 @@
-package co.edu.ucatolica.hisclinic.util;
+package co.edu.ucatolica.primerparcial.util;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;

@@ -5,7 +5,7 @@ import co.edu.ucatolica.primerparcial.model.User;
 
 
 public interface IUserService {
-
     UserResponseDTO addUser(User user);
 
+    User persistUser(User user);
 }

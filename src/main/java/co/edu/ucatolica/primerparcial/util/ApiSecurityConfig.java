@@ -1,4 +1,4 @@
-package co.edu.ucatolica.primerparcial.util;
+package co.edu.ucatolica.hisclinic.util.security.general;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
